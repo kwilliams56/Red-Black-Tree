@@ -18,3 +18,10 @@ A C++ implementation of a red-black tree data structure.
 
 ```bash
 g++ -std=c++20 RBTMain.cpp
+
+## What I Learned
+This project helped me improve my understanding of:
+- Self-balancing binary search trees
+- Templates in C++
+- Data structures and algorithms
+- Tree rotations and balancing
